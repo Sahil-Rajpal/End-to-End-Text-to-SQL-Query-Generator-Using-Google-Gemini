@@ -1,0 +1,1 @@
+# End-to-End-Text-to-SQL-Query-Generator-Using-Google-Gemini
